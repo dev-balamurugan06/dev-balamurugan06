@@ -1,3 +1,9 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300" />
-</p>
+Hi there 👋
+- 📒 I’m currently studying at NSBM Green university
+- 🌱 I’m currently learning Java, Python, linux & Web dev
+- 👯 I’m looking to collaborate on Projects and Hackathons
+- 💬 Ask me about anything
+- 👩‍💻 I'm a enthusiastic programmer (Still Student 🤫) 
+- 📫 How to reach me: Telegram ☝️
+- 😄 Username: HMAHD
+- ⚡ Fun fact: learn more about cybersecurity & web 3 concepts 
