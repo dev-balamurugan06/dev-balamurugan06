@@ -23,7 +23,7 @@
 ```typescript
 const dev_balamurugan06: Developer = {
   name:      "BALAMURUGAN R",
-  role:      "Frontend or full-stack engineer",
+  role:      "Software Engineer",
   location:  "Building from the open web",
   currently: "building in public",
   stack:     ["TypeScript", "HTML", "Python", "JavaScript", "CSS", "Batchfile"],
