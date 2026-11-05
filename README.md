@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.gitskins.com/api/readme-reference/hero?username=dev-balamurugan06&theme=neon&role=%20Software Engineer%20engineer&location=Building%20from%20the%20open%20web&v=readme-reference-2" width="100%" alt="BALAMURUGAN R profile banner" />
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=dev-balamurugan06&theme=neon&role=Frontend%20or%20full-stack%20engineer&location=Building%20from%20the%20open%20web&v=readme-reference-2" width="100%" alt="BALAMURUGAN R profile banner" />
 
 <br/>
 
