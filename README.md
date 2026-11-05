@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Frontend%20or%20full-stack%20engineer;I'm%20a%20passionate%20Full%20Stack%20Developer%20who%20loves%20b%E2%80%A6;Building%20with%20TypeScript%20%C2%B7%20HTML%20%C2%B7%20Python;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=%20or%Software Engineer;I'm%20a%20passionate%20Full%20Stack%20Developer%20who%20loves%20b%E2%80%A6;Building%20with%20TypeScript%20%C2%B7%20HTML%20%C2%B7%20Python;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
 
 <br/>
 
